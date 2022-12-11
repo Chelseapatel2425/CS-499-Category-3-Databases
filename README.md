@@ -34,6 +34,8 @@ When the user selects add product on the main inventory screen. The add product 
 biggest challenge that I faced was to successfully add the item into the inventory system. The reason I was
 unsuccessful at the first couple of attempts was because I had not added a toast message to display when the
 add item was successful and unsuccessful. 
+
+        
          
 
 
